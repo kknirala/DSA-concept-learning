@@ -1,4 +1,4 @@
-// calling itself only once is called linear recursion
+// A function calling itself only once is called linear recursion
 // ex:- 
 
 fun1(let n) {
